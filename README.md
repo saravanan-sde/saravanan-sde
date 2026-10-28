@@ -17,7 +17,7 @@ I'm a software engineer who loves building web applications with Python, Django,
 
 ## "Code until you find your solution"! 👋
 <p align="center">
-  <img src="./github image.gif" width="1400" alt="Saravanan M - Software Engineer" />
+  <img src="./github image.gif" width="500" alt="Saravanan M - Software Engineer" />
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/saravanan-sde/saravanan-sde/main/github_image.gif" width="480" alt="Code until you find your solution" />
