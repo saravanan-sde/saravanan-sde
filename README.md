@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ai_banner.svg" width="800" alt="Saravanan M - Software Engineer" />
+  <img src="./ai_banner.svg" width="1400" alt="Saravanan M - Software Engineer" />
 </p>
 
 # Hi 👋, I'm Saravanan M
@@ -15,7 +15,10 @@
 
 I'm a software engineer who loves building web applications with Python, Django, React and JavaScript. I enjoy learning new technologies, writing clean code and working on open-source projects.
 
-"Code until you find your solution"! 👋
+## "Code until you find your solution"! 👋
+<p align="center">
+  <img src="./github image.gif" width="1400" alt="Saravanan M - Software Engineer" />
+</p>
 <p>
   <img src="https://raw.githubusercontent.com/saravanan-sde/saravanan-sde/main/github_image.gif" width="480" alt="Code until you find your solution" />
 </p>
