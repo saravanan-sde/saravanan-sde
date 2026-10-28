@@ -1,13 +1,6 @@
 <p align="center">
   <img src="./ai_banner.svg" width="800" alt="Saravanan M - Software Engineer" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:9d5cff&height=220&section=header&text=SARAVANAN%20M&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=20" alt="header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Initializing+developer.exe...;Python+%7C+Django+%7C+React+%7C+JavaScript;Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing animation" />
-</p>
 
 # Hi 👋, I'm Saravanan M
 
@@ -23,6 +16,10 @@
 I'm a software engineer who loves building web applications with Python, Django, React and JavaScript. I enjoy learning new technologies, writing clean code and working on open-source projects.
 
 "Code until you find your solution"! 👋
+<p>
+  <img src="https://raw.githubusercontent.com/saravanan-sde/saravanan-sde/main/github_image.gif" width="480" alt="Code until you find your solution" />
+</p>
+
 
 ## Languages & Frameworks
 
