@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="./ai_banner.svg" width="800" alt="Saravanan M - Software Engineer" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:9d5cff&height=220&section=header&text=SARAVANAN%20M&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=20" alt="header" />
+</p>
 
-<!--
-**saravanan-sde/saravanan-sde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Initializing+developer.exe...;Python+%7C+Django+%7C+React+%7C+JavaScript;Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Saravanan M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub followers" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/Saravanan%20M-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+## About me
+
+I'm a software engineer who loves building web applications with Python, Django, React and JavaScript. I enjoy learning new technologies, writing clean code and working on open-source projects.
+
+"Code until you find your solution"! 👋
+
+## Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,react,django" alt="Languages and frameworks" />
+</p>
+
+## Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,notion" alt="Tools" />
+  <img src="https://img.shields.io/badge/PC-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="PC" />
+</p>
+
+## 📈 GitHub and LeetCode stats
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide=issues,contribs&bg_color=0d1117&title_color=c24e00&icon_color=d33a2c&text_color=ffffff&border_color=b22222" alt="GitHub stats" />
+  <img height="200" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=contest" alt="LeetCode stats" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&label=hits&icon=github&color=%2379c83d&message=&style=flat&tz=Asia%2FKolkata" alt="hits" />
+</p>
+
+## GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+
+## Connect with me
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
